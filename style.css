@@ -1,0 +1,21 @@
+.c-white {
+  color: white;
+}
+
+body {
+  background-color: #ffffff;
+}
+
+label {
+  color :#070c10;
+}
+
+form {
+  color: white;
+  margin: 0 auto;
+  width: 480px;
+  background-color: #ff577f;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  padding: 40px;
+  border-radius: 6px;
+}
