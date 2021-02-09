@@ -3,7 +3,7 @@
 // 1. bind an event listener on the form when it gets submited --> (.addEventListener)
 // 2. Check the sugested link and understand the type 'submit'
 
-// Inside the listener
+// Inside the listener --> Prevent the default behaviour of the event.
 //---------------------
 // 3. Select all the inputs that have the data-set of data correct-anser to true
 // Hint 👆 document.querySelectorAll("[data-foo='1']")
