@@ -10,6 +10,7 @@ cd valentines_challenge
 rm -rf .git
 yarn install
 stt # Open this folder in Sublime Text
+webpack-dev-server #Fires a server at port 8080
 ```
 
 ### Instructions!
