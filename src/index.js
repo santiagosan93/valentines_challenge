@@ -12,6 +12,8 @@
 // 6.2 Take your score (the counter) an insert the value in the div with the class of score in your html file
 // 7. Go crazy on the style of the score div!
 
+// ⚠️ Please note: the value in the form will be gone once the form is submitted :scream:  Maybe this will help: (link to the preventDefault docs)
+
 
 
 
